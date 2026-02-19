@@ -48,7 +48,7 @@ Tech: Python, scikit-learn, Pandas
 📊 Activity Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night"> </p>
 🌐 Connect With Me
-<p> <a href="https://linkedin.com/in/YOURLINK"> <img src="https://skillicons.dev/icons?i=linkedin" height="40"/> </a> <a href="mailto:khamayachadevesh123@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="40"/> </a> </p>
+<p> <a href="https://linkedin.com/in/deveshkhamayacha/"> <img src="https://skillicons.dev/icons?i=linkedin" height="40"/> </a> <a href="mailto:khamayachadevesh123@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="40"/> </a> </p>
 ⚡ Fun Fact
 
 Consistency beats intensity.
