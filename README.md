@@ -1,50 +1,56 @@
-# Hi there, I'm Devesh Khamayacha! 👋
+👋 Hi, I'm Devesh Khamayacha
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+%26+AI+Student;Machine+Learning+Enthusiast;Robotics+Builder;Python+Developer&center=true&width=500&height=45"> </p>
+🚀 About Me
 
-![Banner Image](your_banner_image_url_here)
+🎓 BS Data Science (IIT Madras) + BSc Data Science & AI (IIT Guwahati)
+🤖 Passionate about Machine Learning, AI Systems & Robotics
+🛠️ Building projects combining software + hardware
+🌱 Currently learning: DSA, ML, Web Dev
+📍 India
 
-## About Me 🚀
+📫 Email: khamayachadevesh123@gmail.com
 
-I'm a passionate **Data Science and AI Learner** with experience in **ML, Statistics and Python**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+🧠 Skills
+👨‍💻 Languages
+<p> <img src="https://skillicons.dev/icons?i=python,cpp,r,sql" /> </p>
+📊 Data Science & ML
+<p> <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" /> <img src="https://cdn.simpleicons.org/pandas" height="48"/> <img src="https://cdn.simpleicons.org/numpy" height="48"/> </p>
+🌐 Web & Software
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,flask" /> </p>
+🤖 Hardware & Tools
+<p> <img src="https://skillicons.dev/icons?i=raspberrypi,linux,git,github" /> </p>
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" height="165"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" height="165"> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"> </p>
+🏆 Achievements
+<p> <img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=tokyonight&no-frame=true&row=1&column=6"> </p>
+💻 Featured Projects
+🔍 Quiz Master Web App
 
-- 🌱 Currently learning: **DSA, ML, Web Dev**
-- 🔭 Working on: **Few projects**
-- 🌍 Languages: **Python, Cpp, R**
-- 📫 How to reach me: **khamayachadevesh123@gmail.com**
-- ⚡ Fun fact: **I'm a slow learner T_T**
+Full-stack quiz platform with admin + user roles.
+Tech: Flask, SQLite, HTML, CSS
 
-## My Skills 🧠
+👉 https://github.com/YOURUSERNAME/quiz-master
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+✈️ Autonomous RC Plane System
 
-*Replace the above skill badges with your own skills and expertise. TTo create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+Custom RC aircraft with sensors & flight control.
+Tech: STM32, IMU, Embedded Systems
 
-## Featured Projects 💻
+👉 Repo link
 
-### [Project 1 Title](project_1_link)
+📊 Machine Learning Experiments
 
-![Project 1 Screenshot](project_1_screenshot_url)
+ML models & data analysis experiments.
+Tech: Python, scikit-learn, Pandas
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+👉 Repo link
 
-### [Project 2 Title](project_2_link)
+📊 Activity Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night"> </p>
+🌐 Connect With Me
+<p> <a href="https://linkedin.com/in/YOURLINK"> <img src="https://skillicons.dev/icons?i=linkedin" height="40"/> </a> <a href="mailto:khamayachadevesh123@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="40"/> </a> </p>
+⚡ Fun Fact
 
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
-
-## Get in Touch 📬
-
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
-
-
-</p>
-</details> 
-
-![Copy gif](https://media.giphy.com/media/SA5uw3Td33qF4FGIlY/giphy.gif)
+Consistency beats intensity.
+Slow learning → deep mastery.
 
