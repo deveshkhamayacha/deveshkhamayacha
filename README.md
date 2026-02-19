@@ -48,12 +48,3 @@ I'm a passionate **Data Science and AI Learner** with experience in **ML, Statis
 
 ![Copy gif](https://media.giphy.com/media/SA5uw3Td33qF4FGIlY/giphy.gif)
 
-## Additional Resources 💡:
-- [How to create a GitHub Profile README](https://dev.to/github/how-to-create-a-github-profile-readme-jha)
-- [Beautify your GitHub Profile README with badges, shields, stats and more](https://github.com/rzashakeri/beautify-github-profile)
-- [Explore example GitHub Profile READMEs](https://zzetao.github.io/awesome-github-profile/)
-- [Create your GitHub Profile README automagically ✨ with this awesome app](https://www.profileme.dev/)
-- [Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
-- [Profile README Generator](https://github.com/maurodesouza/profile-readme-generator)
-- [Explore more Profile README Templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
-- [Turn your GitHub Profile into a Resume](https://resume.github.io/)
