@@ -19,10 +19,8 @@
 <p> <img src="https://skillicons.dev/icons?i=html,css,js,flask" /> </p>
 🤖 Hardware & Tools
 <p> <img src="https://skillicons.dev/icons?i=raspberrypi,linux,git,github" /> </p>
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=deveshkhamayacha&show_icons=true&theme=tokyonight" height="165"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=deveshkhamayacha&theme=tokyonight" height="165"> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveshkhamayacha&layout=compact&theme=tokyonight"> </p>
-🏆 Achievements
-<p> <img src="https://github-profile-trophy.vercel.app/?username=deveshkhamayacha&theme=tokyonight&no-frame=true&row=1&column=6"> </p>
+
+
 💻 Featured Projects
 🔍 Quiz Master Web App
 
