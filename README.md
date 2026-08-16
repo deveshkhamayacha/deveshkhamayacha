@@ -26,29 +26,23 @@
 
 Full-stack quiz platform with admin + user roles.
 Tech: Flask, SQLite, HTML, CSS
-
-👉 
+ 
 
 ✈️ Autonomous RC Plane System
 
 Custom RC aircraft with sensors & flight control.
 Tech: STM32, IMU, Embedded Systems
 
-👉 Repo link
 
 📊 Machine Learning Experiments
 
 ML models & data analysis experiments.
 Tech: Python, scikit-learn, Pandas
 
-👉 Repo link
-
-📊 Activity Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=deveshkhamayacha&theme=tokyo-night"> </p>
 🌐 Connect With Me
 <p> <a href="https://linkedin.com/in/deveshkhamayacha/"> <img src="https://skillicons.dev/icons?i=linkedin" height="40"/> </a> <a href="mailto:khamayachadevesh123@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="40"/> </a> </p>
 
-⚡ Fun Fact
+Fun Fact
 
 Consistency beats intensity.
 Slow learning → deep mastery.
