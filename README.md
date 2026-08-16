@@ -42,8 +42,3 @@ Tech: Python, scikit-learn, Pandas
 🌐 Connect With Me
 <p> <a href="https://linkedin.com/in/deveshkhamayacha/"> <img src="https://skillicons.dev/icons?i=linkedin" height="40"/> </a> <a href="mailto:khamayachadevesh123@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="40"/> </a> </p>
 
-Fun Fact
-
-Consistency beats intensity.
-Slow learning → deep mastery.
-
